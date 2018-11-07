@@ -1,4 +1,5 @@
 # MATLAB-Programming (Lab-III)
-Matrix Laboratory (MATLAB) programs for Spring 2018 (CSE-318). Broadly divided in 5 modules. Supposed to completed by the end of Oct 2018. 
+Matrix Laboratory (MATLAB) programs for Spring 2018 (CSE-318). Broadly divided in 5 modules consisting whole of 14 programs. For complete semester report see https://github.com/Jishanshaikh4/Lab-III-MATLAB-Programming/blob/master/and-mat-final.pdf
 
-**Edit_0:** All the programs and script files are now in building phase and is supposed to be uploaded at the end of the semester. Keep Waiting :( But I'll make sure upload of at least one new file time to time. 
+**STATUS** COMPLETED (November 7, 2018).
+
